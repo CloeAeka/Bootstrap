@@ -1,0 +1,48 @@
+h1, p, h2 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div.stop {
+    text-align: end;
+}
+ 
+.container_fluid {
+    padding-top: 20 px;
+    position: static;
+}
+
+.gris{
+    background-color: gray;
+    height: 2px;
+}
+
+
+span.espace{
+    margin:15px;
+    background-color: #bdbdbd;
+}
+div.ggt{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div.show1 {
+    background-image: url("immg/woman_fashion.jpg");
+    height: 285px;
+}
+
+div.show2 {
+    background-image: url("immg/men winter.jpg");
+    height: 285px;
+}
+
+div.show3 {
+    background-image: url("immg/childrens.jpg");
+    height: 285px;
+}
+
+div.show0 {
+    background-image: url("immg/fashion-beauty.png");
+    height: 570px;
+}

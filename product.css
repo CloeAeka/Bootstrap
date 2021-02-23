@@ -1,0 +1,18 @@
+h1, p, h2 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button.mybutton {
+    height: 27px;
+    
+}
+
+button.rose {
+    height: 27px;
+    background-color: rgb(224, 195, 185);
+    border-color:  rgb(224, 195, 185);
+}
+p.happy{
+    text-align: end;
+}
