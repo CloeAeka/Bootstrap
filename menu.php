@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row align-items-center justify-content-end">
                 <div class="col-4 text-center">
-                    <h1> UINITY</h1>
+                <h1>UINITY</h1>
                     <p>Fashion</p>
                 </div>
                 <div class="col-4 justify-content-end">
@@ -24,7 +24,7 @@
             <div class="row align-items-center justify-content-end">
                 <div class="col-4 text-center">
                     <button type="button" class="btn btn-warning">Men</button><span class=espace></span>
-                    <button type="button" class="btn btn-warning">Women</button>
+                    <a href="product.php" button type="button" class="btn btn-warning">Women</button></a>
                 </div>
                 
                 <div class="col-4 text-end">

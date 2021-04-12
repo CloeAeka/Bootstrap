@@ -17,7 +17,6 @@ div.stop {
     height: 2px;
 }
 
-
 span.espace{
     margin:15px;
     background-color: #bdbdbd;
@@ -46,3 +45,85 @@ div.show0 {
     background-image: url("immg/fashion-beauty.png");
     height: 570px;
 }
+
+div.bg-image {
+    background-image: url("immg/fashion-beauty.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+    height: 550px;
+}
+
+div.bg-image2 {
+    background-image: url("immg/woman_fashion.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+    height: 284px;
+    }
+
+div.bg-image3 {
+        background-image: url("immg/men\ winter.jpg");
+        background-repeat: no-repeat;
+        background-position: right;
+        background-size: cover;
+        height: 266px;
+    }
+
+div.bg-image4 {
+        background-image: url("immg/childrens.jpg");
+        background-repeat: no-repeat;
+        background-position: right;
+        background-size: cover;
+        height: 266px;
+    }
+
+    p.para1{
+        color: white;
+        margin-bottom: 0%;
+        font-size: 19px;
+    }
+    
+    p.para2{
+        color: white;
+        font-size: 30px;
+        font-family: "Merriweather-Bold", 'Times New Roman', Times, serif;
+        margin-top: 30px;
+        margin-left: 0px;
+        line-height: 100%;
+    }
+    p.para3{
+        color: white;
+        font-size: 1px;
+        font-family: "Merriweather-Bold", 'Times New Roman', Times, serif;
+        margin-bottom: 40px;
+        margin-top: 0px;
+        margin-left: 0px; 
+    }
+    p.para4{
+        color: black;
+        font-size: 36px;
+        font-family: "Merriweather-Bold", 'Times New Roman', Times, serif;
+        line-height: 100%;
+        margin-bottom: 0px;
+        margin-top: 40px;
+        margin-left: 0px; 
+    }
+
+    .link-warning{
+        position: relative;
+        text-align: left;
+        left: 0px;
+        color: rgb(221, 181, 49);
+        text-decoration: underline;
+    }
+    
+    .up {
+    font-size: 80px;
+    }
+
+
+    .posit1 {
+        display: flex;
+        justify-content: center;
+    }
